@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## The Golden Flecks in American History
 
 You can use the [editor on GitHub](https://github.com/EmilyNasiff/AHScapstone/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -15,12 +15,12 @@ Syntax highlighted code block
 ## Header 2
 ### Header 3
 
-[IMG_5810](https://user-images.githubusercontent.com/31556576/116013718-72ae0380-a5e6-11eb-9042-4ab81846d8b1.JPG)
 
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+[Link](url) and ![IMG_5810](https://user-images.githubusercontent.com/31556576/116013718-72ae0380-a5e6-11eb-9042-4ab81846d8b1.JPG)
+
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
